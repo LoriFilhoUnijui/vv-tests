@@ -1,0 +1,12 @@
+br\unijui\vv\integracao\PotenciaTeste.class
+br\unijui\vv\integracao\IntegracaoFumacaTeste.class
+br\com\sara\selenium\testes\regressao\YouTubeBuscaRegressaoTeste.class
+br\unijui\vv\integracao\IntegracaoTopDownTeste.class
+br\unijui\vv\integracao\IntegracaoBottomUpTeste.class
+br\com\sara\selenium\testes\e2e\LoginE2ETeste.class
+br\com\sara\selenium\testes\regressao\AmazonListagemRegressaoTeste.class
+br\unijui\vv\integracao\ValidadorStub.class
+br\com\sara\selenium\testes\regressao\WikipediaLeituraRegressaoTeste.class
+br\unijui\vv\integracao\RepositorioEspie.class
+br\com\sara\selenium\testes\TesteBase.class
+br\com\sara\selenium\testes\fumaca\GoogleFumacaTeste.class
