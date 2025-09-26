@@ -1,0 +1,15 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+vv-tests,br.edu.unijui.vv.integracao,RepositorioConsultasMemoria,0,39,0,0,0,6,0,5,0,5
+vv-tests,br.edu.unijui.vv.integracao,Consulta,0,27,0,0,0,6,0,1,0,1
+vv-tests,br.edu.unijui.vv.integracao,Paciente,0,21,0,0,0,5,0,1,0,1
+vv-tests,br.edu.unijui.vv.integracao,ServicoPaciente,5,54,1,3,1,11,1,3,0,2
+vv-tests,br.edu.unijui.vv.integracao,ValidadorSimples,1,40,4,8,0,6,4,5,0,3
+vv-tests,br.edu.unijui.vv.integracao,Potencia,0,36,0,6,0,10,0,4,0,1
+vv-tests,br.edu.unijui.vv.selenium.nucleo,PaginaBase,0,39,0,0,0,9,0,4,0,4
+vv-tests,br.edu.unijui.vv.selenium.nucleo,FabricaDriver,12,58,3,3,2,15,4,3,1,3
+vv-tests,br.edu.unijui.vv.selenium.paginas,PaginaYouTubeInicio,0,54,0,0,0,13,0,4,0,4
+vv-tests,br.edu.unijui.vv.selenium.paginas,PaginaGoogleInicio,42,0,0,0,8,0,3,0,3,0
+vv-tests,br.edu.unijui.vv.selenium.paginas,PaginaAmazonBusca,15,60,0,0,1,11,1,4,1,4
+vv-tests,br.edu.unijui.vv.selenium.paginas,PaginaLoginTeste,0,56,0,0,0,10,0,4,0,4
+vv-tests,br.edu.unijui.vv.selenium.paginas,PaginaWikipediaInicio,46,0,0,0,9,0,3,0,3,0
+vv-tests,br.edu.unijui.vv.selenium.paginas,PaginaGoogleResultados,14,0,0,0,3,0,2,0,2,0

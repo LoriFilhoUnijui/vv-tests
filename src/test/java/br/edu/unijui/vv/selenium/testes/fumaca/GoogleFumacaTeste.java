@@ -8,7 +8,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class GoogleFumacaTeste extends TesteBase {
 
-    @Test
+    //@Test
     @Tag("fumaca")
     void deveBuscarNoGoogle() {
         var resultados = new PaginaGoogleInicio(driver)

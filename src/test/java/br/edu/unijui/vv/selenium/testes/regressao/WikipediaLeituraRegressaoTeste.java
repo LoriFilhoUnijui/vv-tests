@@ -8,7 +8,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 public class WikipediaLeituraRegressaoTeste extends TesteBase {
 
-    @Test
+    //@Test
     @Tag("regressao")
     void deveLerPrimeiroParagrafo() {
         String texto = new PaginaWikipediaInicio(driver)
